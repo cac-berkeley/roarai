@@ -1,0 +1,605 @@
+{
+    "biases": {
+        "Before": {
+            "General": 0.6122448979591837,
+            "Assignments": 0.17346938775510204,
+            "Lectures": 0.02040816326530612,
+            "Problem Sets": 0.19387755102040816
+        },
+        "After": {
+            "Logistics": 0.59375,
+            "Concepts": 0.2604166666666667,
+            "Application": 0.14583333333333334
+        }
+    },
+    "results_comparison": [
+        {
+            "question": "Hey, is it possible to open a thread for teammatch for lab/projects/homeworks?",
+            "answer": "Yes! Will open a thread tonight for this! ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Do graduating seniors on the waitlist get priority?",
+            "answer": "Hello! Unfortunately, staff aren't super familiar with (and are not in control of) the waitlist priority for this semester. It would be best if you email the advisors regarding this! Sorry about that!\n\n",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "I checked the Ed mega post but it didn\u2019t mention a day; I checked the course website but it seemed its dates weren\u2019t updated from 2023.",
+            "answer": "Homeworks are due on Wednesdays and projects are due on Fridays. The tentative dates are outlined in the policies tab of the website! ",
+            "before_category": "Assignments",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "What extensions can we get if we have DSP assignment extension? What about DSP exam time 150%?",
+            "answer": "Hello! We will follow up with everyone who needs DSP extensions over email regarding any personal accommodation as soon as we can!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Should people on the waitlist try to team up with other waitlisted people? Like if one enrolled student is paired with another student who doesn't get into the class, would that pairing be detrimental to the enrolled student? (Although, if some waitlisted students get in and others don't, you could wind up with the same problem I guess.)",
+            "answer": "I think it depends on how long you're planning to stay on the waitlist, but I do think it's probably in enrolled students' favors to partner with another enrolled student. The waitlist will move somewhat, so in the end, it's up to you on how to balance that. ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, I am still confused on the journal club and the formal Lab.  Is the journal club a part of \"1 hour of organized paper-reading time in lab sections.\" mentioned in the website policy, Or if that week has a formal Lab, and there will not be any journal club?\n\nAre they mandatory and held weekly? Because I have a class end at 10:15 once every four weeks on Thursday, I want to know if I could be a little bit late for about 15 min once every four weeks at the journal club when I signing up for it. \n\nThanks!\n\n",
+            "answer": "Hi! Sorry about the confusion! The journal club is the 1 hour of organized paper-reading time. There's no other synchronous/in-person component of lab. Working on projects is done on your own time.\n\nThey are mandatory and they are held weekly.\n\nAs far as your conflict, I'd encourage you to choose a different section than the 10 am one, since coming late will not be great (defeats the entire purpose since it's only an hour-long meeting). Plus if you factor in the time it takes for you to walk from your class, you'd be missing half the meeting. On the other hand, since it's only every four weeks, it's probably okay -- you'd have to get it excused by whoever your Lab TA is, and make sure that you're not presenting on any of those days. But it's better for everyone if you prioritize a section you can always make it to, barring any extenuating circumstances. \n\n",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, I want to know do we have journal club today?\n\nI saw the logistics slides here, but there are no people showing up.\n\n",
+            "answer": "Sorry yes - journal club starts next week! That is last year's version of the slides. Where did you find that?",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Where are the recorded lectures posted.",
+            "answer": "Usually, it's posted to bCourses -- we're waiting to see if Course Capture will work for the past 2 lectures, but it may not be due to some technical issues. If not, we will do our best to get the slides up. However, it should be posted promptly starting the next lecture at the latest.\n\n",
+            "before_category": "Lectures",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Is there an official or unofficial discord server for this class?\n",
+            "answer": "Here you go: https://discord.gg/vcBQ6t8yUX (we won't check it regularly or promise answers on here)",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Why is it taking so long to have access to lectures and discussions?\u00a0\nI was under the assumption that the class would be accessible to students who can not make it to class due to health reasons out of consideration for others.\u00a0\nOther classes are able to post the lectures within hours after the lecture so the resources are there for this to be done.\u00a0\nShould we not be considerate towards others and come to class even if we are sick because it appears that I am doing this at personal cost by falling behind already.\u00a0",
+            "answer": "I'm very sorry about that.\n\nThe first lecture unfortunately won't be available as a recording because of university issues. You should be ok though - it was background and logistics. You'll be ok if you watch the second lecture onwards.\n\nSorry about discussion - slipped my mind with some other things I was doing. Will release in the next couple hours.\n\n",
+            "before_category": "Lectures",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, I tried to find this information on the syllabus but will discussion recordings be released if we miss it? Additionally, where can we find discussion materials (slides, solutions)? Thank you!",
+            "answer": "Discussion materials will be on the website! (Just published, sorry for the delay)",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, will the lecture slides be posted?\u00a0",
+            "answer": "Yes. I will try to post them at the latest a couple of days after the lecture. The slides from week 1 will be up shortly.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Does the 80% rule apply for HW? Can we drop any of the HWs?",
+            "answer": "There are no homework drops in the class, however there is extra credit offered for filling out the surveys. As far as the 80% rule, as of now, do the homework as it does not apply. Staff will have to discuss whether we end up offering this policy or not.\n\n",
+            "before_category": "Assignments",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "It seems like I can't access the 106A assessment on the website. Could someone link it please?",
+            "answer": "Fixed this now! Thanks for the catch! ",
+            "before_category": "Assignments",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hey. Will Prof Shankar hold his OH in the office? ",
+            "answer": "Yep! For everyone's reference, Prof Sastry's OH is held in Cory 333B!",
+            "before_category": "General",
+            "after_category": "Invalid"
+        },
+        {
+            "question": "Hi! I was reading on the website that there will be a midterm synchronously April 11th though I recall on the first day of lectures that the midterm would be take home. Did this get changed? Thank you!",
+            "answer": "Hi - yes, it was a take-home exam last year, but staff are discussing the possibility of making this an in-person exam versus a take-home exam due to alleged cases of academic dishonesty that occurred last year. If we do have an in-person/synchronous exam, it will be on April 11th. We will make a final decision on Monday, which will be released in the weekly announcements!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Camera on Alice does not work.\u00a0",
+            "answer": "When you say it doesn't work, what have you tried so far? Sometimes it seems like it's not working but it actually is. But it could also be not working!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "We encountered this error on both Monday and Wednesday (today), we asked Michael a couple times and he tried to help tho the software remained stubborn and he mentioned he'd bring it up with the rest of staff. Does anyone (TA or students) have any ideas on how to resolve it? ",
+            "answer": "What if you just.... deleted that line lol. Not sure what lines are dep on it & very very strange cuz I didn't hit this error while devving\n\n",
+            "before_category": "Assignments",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Wanted to ask a question about how auditing for this class works. I'm guessing we will still be able to access content on bcourses and the course website. Was wondering if we could also use the robots when they are not being used by enrolled students.",
+            "answer": "Hi! You can still use the robots when they're not being used by enrolled students (ie when there are no reservations)! However, please don't make any reservations as enrolled students need priority to access the robots.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, I had a question about the solution to part 4 problem 2 of discussion 2. In the definition of an energy like function v(X) that is locally positive definite is 1) that v(0,t) = 0 for all t and 2) v(x,t) is greater than or equal to a different function alpha based on the magnitude of x that is strictly increasing and continuous. In the solution I don't see where condition 2 is being met or why we are proving that v >= 0 since 0 is not a function that is strictly increasing and based on the magnitude of x. On an earlier example, we proved LPD by proving that v(x,t) was greater than a function e.v min * magnitude of x^2 but I don't see where this applies to this solution. Would someone be able to explain why we are using 0 as our alpha function here? Thank you!",
+            "answer": "Ah yeah so I think I explained this but didn't write it down in the boardwork. The quadratic term will be larger than the linear term and therefore can be used as the alpha function. ",
+            "before_category": "General",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Out group is planning on using slip days for the project and was wondering if we have to do anything or does it just automatically applies? \nThanks\n\n",
+            "answer": "It'll automatically apply:)",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Dear Instructors:\n\nIs it possible to slightly extend Lab 1? We feel that it is taking more time than we initially anticipated, and one week doesn't seem to be enough for us. Additionally, our team is still limited to only 2 members, and it appears that other teams are also facing challenges with the project. We are uncertain if a slight extension might be considered.\n\nThanks!",
+            "answer": "Hey everyone, sorry we were not able to extend the project. If you have extenuating circumstances as an individual or as a group, please let us know via a private post on Ed and we can extend the project on a case-by-case basis. Most groups were able to use slip days -- the future projects should be a little less tighter with the deadline and we will increase the allowed booking time to 3 hours rather than 2 hours.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi! Are we allowed to switch teams across projects? I would like to get to know and collaborate with different people across projects. Thank you so much!",
+            "answer": "Sure:)",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, is homework 3 not out yet? The website says it's due next week. Also will we have homework party today?",
+            "answer": "HW 3 is not out yet but will be released shortly. There was HW party today, the calendar is always up to date!\n\n",
+            "before_category": "Assignments",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "has hw3 been released yet? website says it would've been released on 2/8 but atm don't see it. Just concerned if we would have the same due date of 2/21. Thank you! \n\n",
+            "answer": "Homework 3 will be released shortly!",
+            "before_category": "Problem Sets",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi! In lecture on Tuesday, I recall something mentioned about a possible extension for Project 2. If so, would we be able to get an update on this? Thank you so much -- an extension would be really helpful especially with the longer weekend this week and homework! \n\n",
+            "answer": "Hi, if we decide to extend the project we'll announce it on Tuesday alongside weekly announcements. Please continue to work on the project to mostly have it completed by the currently scheduled deadline. ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "I wasn't able to attend week 5's discussion in person, so I was wondering if the recording will be uploaded to the website?\n\n",
+            "answer": "It was not recorded this week. I would recommend watching the recorded section from last year. I think I teach better sections when I work directly on the board, so I might continue doing this.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Is Daniel still having OH today at 10 in Cory 105?",
+            "answer": "Sorry, he got caught up in research meetings with Professor Sastry. He'll walk over right now. ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Is Daniel still having OH today at 10 in Cory 105?",
+            "answer": "Sorry, he got caught up in research meetings with Professor Sastry. He'll walk over right now. ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi!\n\nI saw that in the project 2 release thread that one of the TA's says that we are not required to deal with singularities for this project. I'm running into a singularity problem with executing the point turn trajectory for the sinusoidal controller. I need to handle this singularity to actually run the trajectory, but from what the TA says, does it mean that it is ok for us to not handle this issue for this project? I am a bit confused about this. Thanks a lot!\n\n",
+            "answer": "Hi - if you're hitting a singularity and you're not able to fix it, what's important is that you can explain why you're hitting the singularity and explain how you would resolve the singularity in the report. You can try to fix it, but it is not required to implement/handle the singularity issue. \n\n",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hello, \n\nI just wanted to confirm two points about the logistics for the final project:\n\n1) The last in-person event for this class is the final project presentation on May 3rd\n\n2) The final project report/website (due May 10th) is a digital submission\n\nThanks!\n\n",
+            "answer": "Yup, you won't have to be in town after the presentation date. ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "I am struggling to understand the solution here. How do you know that $h(q)$ is separable in $q_n$? For example, something like $h(q) = q_1 + q_1 q_2 + q_2 \\sin(q_1 + q_2) = 0$. \n\nThen I don't think you can decouple $q_n$ from $q_0, \\dots, q_{n-1}$, so there is no way to uniquely define $q_n$ in terms of $q_0, \\dots, q_{n-1}$ (and thus their time derivatives).\n\nI didn't want to comment on the homework solutions thread since it isn't a megathread so it doesn't mark it as unresolved",
+            "answer": "Just made it a megathread!\n\nYou're right that it's not a true statement for Pfaffian systems in general. However, the question does say that you can assume the constraint can be made a function of $q_n$.\n\n",
+            "before_category": "General",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Hey\n\nI tried running the following on my dual-boot MacBook Pro (Intel i7, Ubuntu 20.04) without success, though it works fine on the lab computer:\n\nroslaunch proj3_pkg unicycle_bringup.launch \n estimator_type:=dead_reckoning \n noise_injection:=true \n freeze_bearing:=false\n\n\nI get the error: \n\n[roslaunch][ERROR] 2024-03-14 15:28:57,908: OSError(8, Exec format error) [roslaunch][ERROR] 2024-03-14 15:28:57,908: RLException: Unable to launch [unicycle_node-2].\nIf it is a script, you may be missing a '#!' declaration at the top. [roslaunch][ERROR] 2024-03-14 15:28:57,909: Traceback (most recent call last): ...\n\n\nI was able to run the simulation in project 2, which suggests it might not be a ROS setup error. I'm considering if it could be related to a potential computer architecture mismatch between the machine that compiled the unicycle_node file and mine. Both my machine and the lab machines are x86_64, but there might be other differences. Looking through the code, it looks like unicycle_node is a compiled Python file. Would it be possible to get that file and try to compile it myself?\n\nOr does anyone have any other suggestions?",
+            "answer": "So sorry for the late response but we cannot give you the unicycle_node source file as that does contain the source code and would allow you to reverse engineer the solution. I am surprised that this is an issue though as I believe the original file was compiled with an intel machine running x86_64. If this has still caused issues with you guys working on the lab please do feel free to make a private Ed post and we can try to accommodate.",
+            "before_category": "Assignments",
+            "after_category": "Application"
+        },
+        {
+            "question": "Its been quite while since we have submitted HWs and projects. It would be nice if we can get grades back for HWs and labs. ",
+            "answer": "We're trying our best! Got Daniel working very hard!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi! Would we be able to get some more information on the Robust force closure metric method for Project 4? I and a few others are a little confused on how to proceed forward. I've been trying to figure this out for several days. https://edstem.org/us/courses/54072/discussion/4503027\n\nThank you so much!\n\n",
+            "answer": "Sorry about missing this thread - hopefully the hint doc was helpful to get started on this, and if not I'd love to answer any further questions you have!\n\n",
+            "before_category": "Assignments",
+            "after_category": "Application"
+        },
+        {
+            "question": "When working with Ada this afternoon, our group found that the gripper doesn't open and close when commanded. (Ex: when we run gripper_test.py, Ada only closes and opens for calibration 1 time while a working gripper on a different robot closes and opens 3 times).",
+            "answer": "I'll have ESG look into this this week!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hey I am just going to confirm when is final week presentation since I am planning for summer plan. Does it end on 5/3?\n\n\n\nThanks!",
+            "answer": "Yup, you won\u2019t have to be in person past 5/3 for this class\u00a0",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Can someone please explain what are positive definite function and matrices. ",
+            "answer": "Positive definite functions are defined in homework 2\n\nA positive definite matrix $M$ is defined such that for any nonzero vector $z$, $z^T M z$ is strictly greater than 0. ",
+            "before_category": "General",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Hi, I heard that we can use 3 slip days on Proj 4, so we can submit it tomorrow. Can I get a confirmation on this? Thank you so much!",
+            "answer": "The extension/slip day rumors that go around in this class are really interesting! But yes you can use all your remaining slip days on this project.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, I heard that we can use 3 slip days on Proj 4, so we can submit it tomorrow. Can I get a confirmation on this? Thank you so much!",
+            "answer": "The extension/slip day rumors that go around in this class are really interesting! But yes you can use all your remaining slip days on this project.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hello,\n\nIt seems like the extra credit was factored into the grade for Project 2, so if we didn't do the extra credit, we got 10 points off the total score. Is this intentional, or could it be fixed if not?\n\nThanks!",
+            "answer": "Hey! So the way we graded it, this will be taken into account when grades are finalized on our end. So your score will be adjusted for it to be extra credit. Mostly because gradescope doesn't have a way for something to be out of zero (or if it does, I wasn't able to figure it out).",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "To clarify, here: |\u1e8b| refers to the norm of the velocity vector?\n\n",
+            "answer": "Yup, exactly",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "For 1.1, I am able to derive the equation of motion using Newtonian mechanics, but I'm confused as to how to do it via Lagrangian mechanics. With L = T - V,  I derive an expression for the kinetic and potential energies and then use the Euler-Lagrange equation, but this always results in an expression which only includes the force due to gravity. \n\nHow should one go about ensuring the other quantities end up being included?",
+            "answer": "What choice of generalized coordinates did you make? This plays a big role in solving the question.\n\n",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "For 1.1, I am able to derive the equation of motion using Newtonian mechanics, but I'm confused as to how to do it via Lagrangian mechanics. With L = T - V,  I derive an expression for the kinetic and potential energies and then use the Euler-Lagrange equation, but this always results in an expression which only includes the force due to gravity. \n\nHow should one go about ensuring the other quantities end up being included?",
+            "answer": "What choice of generalized coordinates did you make? This plays a big role in solving the question.\n\n",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "For question 4.2, is the n in the inequality: \n\nthe same as the n in the size of the matrix: \n\nor is it supposed to be an arbitrary timestep?",
+            "answer": "It's meant to be an arbitrary timestep. Good catch.",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Are we required to use LaTeX for HW?",
+            "answer": "No, but please make sure your handwriting is clear. If your handwriting is not clear, you might not receive full credit for your work.\n\n",
+            "before_category": "Problem Sets",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "gradescope assignment?",
+            "answer": "It should be up!",
+            "before_category": "Problem Sets",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "For 2.2 and 2.3, is it possible to force the limit to be 0 regardless of any conditions on lambda, breaking the desired conclusion, simply by setting x(0) = 0?",
+            "answer": "The question asks you to prove the answer for any initial condition ",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "For 4.1, can we assume any other conditions on u? If u is unrestricted it seems like the limit might not exist as delta t approaches zero, i.e. if u is Thomae's function.\n\nAdditionally, does the condition of Lipschitz continuity bound the change in f based on the norm of the change in [x, u], based on the change in x and u separately, or just one of them?",
+            "answer": "Good question - I believe for multivariable functions, the Lipschitz constant is the maximum of that for $x$ and $u$. This should answer your first question as well - $u$ must be continuous as well.\n\n",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "If we have a group of four for the final project can we keep the same group for labs or do we need to split up and find 2 other students to make 2 groups of 3?",
+            "answer": "You need to have a group of 3 for your labs/projects and a group of 4 for your final project. How you split that up is completely up to you!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Are there any class resources that I can use to set up ROS on my personal laptop?",
+            "answer": "Also, this is a guide from last year that may be helpful: https://docs.google.com/document/d/1Ad9PDpqAI6W5701Lm51QJgKpjSAzO90iAQAEw_TGnII/edit?usp=sharing",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Are there any class resources that I can use to set up ROS on my personal laptop?",
+            "answer": "Also, this is a guide from last year that may be helpful: https://docs.google.com/document/d/1Ad9PDpqAI6W5701Lm51QJgKpjSAzO90iAQAEw_TGnII/edit?usp=sharing",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Where do we schedule time slots to work with the robots? I can't find it on the website. Thanks!",
+            "answer": "Hi! You should be able to reserve time on these calendars found on the policies page:\n\nArm Robot Calendars Reserve Here\n\nTurtlebot Calendars Reserve Here\n\nLet me know if you're having any trouble with the links!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "what is ddl",
+            "answer": "I'm not sure I know what you mean.",
+            "before_category": "Assignments",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Are we allowed to use tools like Sympy and Matlab, if we show our code and explain how/when we used these tools (as allowed in homework 1)?",
+            "answer": "Sure.",
+            "before_category": "Assignments",
+            "after_category": "Application"
+        },
+        {
+            "question": "This is question 3.6. Is the shift from using the notation V(x) in the previous problem 3.5 equation 31 to V(t) in this section intentional? Does this mean we need to incorporate x(t) into our description of V?",
+            "answer": "Yes. Notice how the initial state is fixed in this problem. This means that we can simplify V(x, t) as V(t). The idea is all that really matters. I wouldn\u2019t get too caught up in the notational nuances.",
+            "before_category": "Assignments",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Problem 3.2 asks for an explanation of the cost function $u^TQu$ of the CLF-QP controller. However the problem doesn't really talk about what this $Q$ is, other than the fact that it is PSD, so I'm not really sure what it means to optimize for this function, which depends on $Q$. Help would be appreciated!",
+            "answer": "It\u2019s just asking for a couple sentences of intuition. Why is it important to have a term in the cost function with the input and a PSD matrix? What exactly would you be minimizing with this cost, and why?",
+            "before_category": "Assignments",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "where do we download the files for the coding portion of the hw (non-jupyter notebook)?",
+            "answer": "Which question in particular?",
+            "before_category": "Assignments",
+            "after_category": "Invalid"
+        },
+        {
+            "question": "In problem 3, it seems that there is an inconsistency in the dimension of u. \n\n\n\nI'm wondering if this is a typo (the decision variable should actually be within R^m) or if the u in (23) is different from the control input in (22)\n\n",
+            "answer": "Yes, that is a typo. The most general formulation should have u in Rm. That is, u need not be in the same vector space as x.",
+            "before_category": "Assignments",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Q1.2: We state that the problem we are solving is a linear system. Are we able to assume the P Q R matrices are also diagonal matrices (in addition to positive semi-definite) because of this?\n\nI\u2019m getting non-linear terms with only the positive semi-definite assumption.",
+            "answer": "This is a cost written in quadratic form, so you should expect there to be quadratic terms. You do not need to assume the matrices are also diagonal. It might help to think about the properties of positive semi-definite matrices and how they can help you solve this problem.",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Shouldn't the interval be exclusive on one side (ie. [t, t + \\Delta t))? Or do we just ignore the points of discontinuity? Because equality on both endpoints seems to imply the signal never changes?",
+            "answer": "Yes, I think a more rigorous statement would be exclusive on one side.",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Shouldn't the $U$ matrix include $u_0$ to $u_{N-1}$, not just $u_1$ to $u_{N-1}$? Since we have $N$ inputs starting at index 0?",
+            "answer": "Yes, I think that is a typo.",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "small request: please include requirements.txt when releasing code it is good practice thank you ",
+            "answer": "Hi Trinity - we'll try our best to do this in the future!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Did anyone else come across this error: \"Wrong number or type of arguments for overloaded function 'new_DM'.\" when calling xGuess = ca.DM(xGuess) after using np.linspace to create xGuess?\n\n",
+            "answer": "Is this still an issue? I think I might have helped you out in OH. If not, I would suggest you print out the datatypes of all of your objects. Make sure the dimensions are lined up appropriately.",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "Did anyone else come across this error: \"Wrong number or type of arguments for overloaded function 'new_DM'.\" when calling xGuess = ca.DM(xGuess) after using np.linspace to create xGuess?\n\n",
+            "answer": "Is this still an issue? I think I might have helped you out in OH. If not, I would suggest you print out the datatypes of all of your objects. Make sure the dimensions are lined up appropriately.",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "For 2.5 it says we make the eigen value of Q that is multiplied by theta error equal to 0, because in this question we don't care about the orientation. It doesn't mention this in the context of the P matrix, but I just want to confirm that this is also the case for the P matrix?\n\n",
+            "answer": "It's not specified in the problem, but I agree with you that it would make sense to also make sense for the P matrix (defines the norm on the final error vector). This is because in the problem we generally don't care about the orientation of the robot as much as its position.",
+            "before_category": "General",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "What are we supposed to submit for 2.4? There doesn't seem to be a deliverable in the question",
+            "answer": "There's no deliverable for 2.1-2.4",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "What is meant by G.C. positions in problem 3.2? Does it stand for generalized coordinates positions?",
+            "answer": "Yup generalized coordinate!",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "could anyone give a hint of how to solve problem 1? I am really confused",
+            "answer": "If I tell you that $x+y=0$, can you write out the value of $y$ using the other coordinates in the system, in this case $x$?\n\nUse this same logic to write one of the generalized coordinates as a function of the other GCs and $h$. Then, differentiate.",
+            "before_category": "Problem Sets",
+            "after_category": "Application"
+        },
+        {
+            "question": "I\u2019m confused at the holonomic vs. nonholonomic intuitions. Shouldn\u2019t the TurtleBot\u2019s positions still be affected by the constraints since it can no longer go into certain areas? The only difference I\u2019m thinking of is that it is not entirely constrained to a path in G.C. (much like a function h(q)), whereas the roller coaster has such an equality constrained upon it.\u00a0",
+            "answer": "Imagine you are in an empty room with your TurtleBot. Ask yourself this question without thinking about anything taught in 106B: could the TurtleBot's center of mass reach any location on the floor (or more formally, a two dimensional plane)? Moreover, could the TurtleBot reach any location on the floor in any heading?\n\n\n\nSince the answer to these questions is yes, we know that the TurtleBot's kinematic constraints are not integrable. If they were, you would answer no to at least one of those questions. This is why the TurtleBot is a non-holonomic system.",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "I am really confused by number 1. I don't understand what the pfaffiant constraint has to do with the Lagrangian dynamics. And since all we know is that w(q)*q_dot = 0, and h(q) = 0, and we nothing about the functions w(q), or h(q), themselves, how are we supposed to isolate q_n double dot?\n\n",
+            "answer": "This question is more about taking the algebraic equation h(q) = 0 and arriving at an expression for q_n ddot. Since h(q) = 0 is an algebraic constraint, we can find another function, say h_2(q1, ..., qn-1) such that h_2(q1, ..., qn-1) = qn. This process is essentially isolating one of the variables in your algebraic constraint. At this point, you can use h_2 to arrive at an expression for q_n ddot.\n\n\n\nThe system's Lagrangian dynamics provides us with a set of differential equations such that we can solve for q_1 to q_n-1 (this is given by the problem). This problem is stating that given the values these variables must take on, we can completely determine q_n ddot. At a high level, this means that q_n ddot \"isn't special\" -- it's determined by the rest of its buddies (q1, ..., qn-1). That is, we lose a degree of freedom. ",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "We were told we will be given 4 weeks to do both project 3 and 4 but we are being given about 3 weeks only.\u00a0",
+            "answer": "Hi, that must've been a miscommunication. We introduced the concepts of the projects last week (making the deadline 4 weeks out), but we've been pretty consistently thinking both projects would be due the Friday before spring break. If we extend the project beyond spring break, we'll just have less time for the final project, which is worth a lot more of people's grades and not good for anyone involved. Both of these projects are a lot more approachable than the previous ones. ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Should we expect a correct dead reckoning implementation to perfectly match the goal with zero error, or just be quite close? I feel like there should still potentially be some error due to the fact that the true trajectory is computed through integration of the dynamics, while we are still using a Euler discretization approximation, but I am not sure\n\n\nUpdate: Empirically, there does seem to be a significant discretization error at dt = 0.1, but this goes away with dt = 0.01. ",
+            "answer": "You should not expect it to perfectly match the goal with zero error for the drone or the turtlebot but it shouldnt be wildly off. Unless the data you are looking at for drone dead reckoning is the noisy data the final error should be noticeable but not egregious.",
+            "before_category": "General",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "What's the purpose of this condition inside the update function for the turtlebot in the starter code?\n\n\nif len(self.x_hat) > 0 and self.x_hat[-1][0] < self.x[-1][0]:\n",
+            "answer": "self.x and self.x_hat are lists of states where the the 0th element of the state is the time in which that state occurred (note: this is not the same for the drone simulator as self.t will contain the appropriate time). So the first part of the condition is checking that we have an initial estimate and the second part of the condition is checking that the time of the most recent estimate is newer than the time of the most recent actual state.",
+            "before_category": "General",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Hi, the website's probably wrong since it says the projects will be due 4/7, but would it be possible to get the project specs added to the website as well as the correct due dates? Thanks! \n\n",
+            "answer": "Oof yeah sorry working on it rn, will have it done by tn!! Been super swamped w midterms \ud83d\ude2d ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi pulled the repo from the directions on the spec but I am not able to see all the files. I am not able to see the drone proj3 folder amongst many others?",
+            "answer": "Make sure you're using this link: https://classroom.github.com/assignment-invitations/cb8b41fc875400abbf067699c2b288de/team",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "For the extra credit, can we just implemented the Extended Kalman Filter for the Turtlebot in simulation (which simply means filling out the function in Estimator.py), or should we somehow implement this on a real turtlebot? ",
+            "answer": "Extra credit is for implementing on the real turtlebots, only, unfortunately",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "Deliverables b and c for section 3 Experimental Results seem to be the same, just one stated in math and one in English. Is that understanding accurate?",
+            "answer": "Yes you're correct!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "How are we supposed to get quantitative measurements on estimation accuracy and per-step computational running time as mentioned in part (a) of the experimental results section?",
+            "answer": "You can get quantitative measurements on estimation accuracy by just taking the average error between $\\hat x$ and $x$ across all the timesteps. For per-step computation you can just print out the difference in time at the beginning and end of the call to update() for each method",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "Are we supposed to implement compute_force_closure method in grasp.py? It doesn't seem to directly match the problem spec, though maybe I am missing something?",
+            "answer": "Hi! I think I answered this question in OH, but try out looking at the hints + I can help further if you've still got this question:)",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "Is there a method to close the gripper from python? The only way we've been able to do it is to launch a seperate node and use the intera_examples script.",
+            "answer": "There should be! \n\nSo if you have a gripper on a Sawyer you can do \n\nfrom intera_interface import gripper as robot_gripper\n\ngripper = robot_gripper.Gripper('right_gripper')\n\n\nand then from there you should be able to call\n\ngripper.close() and gripper.open()",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "In contrast to what has been said with projects 3-4 being more straightforward, our group has found this project to be much more involved compared to the first three projects, and I think other groups are noticing this as well.\n\nFor example, the directions in the spec often conflict with the starter code, and the hints given do not fully explain the gaps, often leading to more confusion than clarification. There are mistakes and missing information in the code. There is little information on how to use cvxpy and trimesh (we are simply told to look up documentation), and while the theory doesn't look as bad as previous projects, we are left on our own to figure out a lot of things. Add on that we have to go from simulation to a Sawyer and this project is pretty gnarly.\n\nThere's nothing wrong with some mistakes and/or a difficult project. However, I am frustrated because the support has been quite underwhelming. There hasn't been a single staff response in this thread. I understand that the course is understaffed and that staff members are busy, but some of the comments here have gone unresolved for weeks, and it feels like students are being hung out to dry. It should not be students' responsibility to answer other student questions.\n\nI don't have a proposal or anything to reduce the scope of the project, I would just like to see a bit more (Ed) communication from the staff going forward.",
+            "answer": "Hey Noah, your feedback is very felt and heard. This is part of why we extended this project further, and I'll be getting back to everyone on this thread + other Ed threads for this project ASAP. This project was definitely much harder to dev + support than I initially thought so it's great feedback for the future. Edited: we will also be grading the \"real\" portion of this project really gently. Mainly we just want you all to have the experience of trying out the grasping stuff IRL, but it doesn't have to work 100%. Will add this in during announcements today.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "How do we get 18 grasps? Shouldn't it just be 3 grasp metrics each for 2 objects, so 6?\n\n",
+            "answer": "3 trials for each one!",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "Once we get the pose in the object's reference frame from custom_grasp_planner, how do convert in a way that it is in the robot's base frame? \n\nAlso, we used lab 5 from last semester, and we are having issues with moving the robot arm. It can move to any position when the gripper is facing down; however, when we use the Cartesian coordinates and quaternions of the gripper from tf echo, it times out, basically outputting an error saying that the jointspace is empty. Any help would be appreciated, thank you!",
+            "answer": "What you\u2019ll need to do is localize the object in some way relative to the robot\u2019s base fram you can do this by using an ar tag or manually moving the gripper over the object and calling tf_echo. Note that the origins for the pawn and nozzle are not at the bottom of them so you\u2019ll have to account for that",
+            "before_category": "General",
+            "after_category": "Application"
+        },
+        {
+            "question": "for Ferrari Canny: the hint doc suggests that we create a \"desired wrench\" (Wg) and then perturb it for n=10 trials, while the project doc says to create random n=1000 w's from sampling unit sphere. Which are we supposed to follow?",
+            "answer": "Our implementation requires only 10 however depending on your implementation you may need more. I recommend starting offwith the lower number of samples (since it\u2019s easier to compute) and increase the number if you find your current results lacking",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "How should we match pages? I am a bit confused by the way the sections are allocated compared to the project report deliverables. It feels like discussion of the individual metrics (broken down in results) is part of the methods section (and that the method section has more content than 5pts). Am I missing something? Thanks!",
+            "answer": "Hi! You're right that methods is actually worth 10 points as stated on the project doc -- just updated the gradescope to reflect that. Hope that helps, let me know if you have a further question!\n\n",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Compute Robust Force Closure\n\nCreate a desired wrench similar to the above\n\nYou\u2019ll have a certain number of trials (we have ~500). For each trial, get new normals and new vertices by sampling around the vertices (how would you implement this?), and compute the force closure. Record if it was a success. \n\nWhy would we need to create a desired wrench if we can just call compute_force_closure() on our new normals and vertices?  If we can find that our grasp is in force closure given these new sets of vectors, shouldn't that mean we can resist the effects of gravity?",
+            "answer": "So, with robust force closure, the idea is to have a certain number of trials and for each trial, get a set of new_vertices and new_normals (you can implement the sample_around_vertices function for this, more on that below). If the new_vertices and new_normals returned by that function are usable, you can add to the total the result of the compute_force_closure function (in which you need to pass in a desired wrench). You'll return the total divided by the number of trials. The desired wrench isn't a separate function but simply the mass of the object times a 6x1 array that accounts for gravity. \n\nFor sample around vertices, you can use np.random.normal and pass in some params to offset a new_vertices array that you can generate through find_grasp_vertices (a util function, you'll have to pass in the object mesh). You'll be able to generate some new_normal by applying normal_at_point (also in utils).\n\nNot sure if any of that helped but please ask any follow-up questions!",
+            "before_category": "Assignments",
+            "after_category": "Application"
+        },
+        {
+            "question": "\"See the bottom of page two for some of this written out mathematically!\"\n\nWhere might I find these generously given mathematical expressions?  Sends helps :praige: \n\n",
+            "answer": "The entire 1.1 section is what's useful here! Lmk if you've got follow-up questions + happy to help outline the constraints we used!",
+            "before_category": "Assignments",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "in def main() at the bottom of grasping.py, we have a code snippet that says that we may or may not find that snippet helpful and that it was supposed to be deleted, was that necessary code we would've had to construct or like a bonus checker?",
+            "answer": "It's helpful for testing/debugging but the extent to which you'd have had to construct it is hard to say exactly. Is there a particular question you have with respect to that portion of the code?",
+            "before_category": "Assignments",
+            "after_category": "Application"
+        },
+        {
+            "question": "What are A, b1, and b2 supposed to represent in contact_forces_exist?  My best guess currently is that b is analagous to alpha in the project spec, but I don't see why that would need a b1 and b2.",
+            "answer": "A is representing the discretized friction cone. So it would be something like\n\n[[cos(i*2pi/num_facets)], [sin(i*2pi/num_facets)]] <- this should be a 2x1 matrix\n\nand you're going to want to loop through num_facets (which is what i is), and basically horizontally stack all of these 2x1's to end up with a 2xnum_facets matrix. So think about going through and splitting the friction cone into two halves which is basically what A is.\n\nAnd then b1 and b2 - the way that I think about it is like the weights that you're applying to get it to hold the constraints that we want it to in this situation. Those are mostly talked about in section 1.1, but I'll also add something in the hints about the constraints for contact_forces_exist as well soon!",
+            "before_category": "Assignments",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "Will the proj4 due date update be reflected on gradescope?",
+            "answer": "Yep will do today! ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Will the proj4 due date update be reflected on gradescope?",
+            "answer": "Yep will do today! ",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Is project 4 the last project before the final project, or is there going to be a project 5 + a final project?",
+            "answer": "Will have an update for you on this tomorrow after staff meeting, but right now it's looking like most likely there will not be a project 5 due to issues with project 4. Edit: we will have a mini project 5, more details about that will be released today.",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "For 1.1, if we have $i=-2$ and $j=-2$ let's say, then we would be computing $F(-2, -2)I(x + 2, y + 2)$ according to the formula. But shouldn't we be computing $F(-2, -2)I(x - 2, y - 2)$?\n\n",
+            "answer": "You're right, there seems to be a double negative in there, sorry about that",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "I understand that convolution is cross correlation (sliding the filter over the image) with a flipped filter across the x and y axes. However, I am a bit confused by the indexing. In 1.1, we take both indexes from [-N, N]. But the underlying F is a Numpy array with positive indices. Do we assume that (-N, -N) in the filter math notation corresponds to (0, 0) in the Numpy array?",
+            "answer": "Yeah, see my answer below - it should be $I(x+i, y+j)$.",
+            "before_category": "Problem Sets",
+            "after_category": "Concepts"
+        },
+        {
+            "question": "How should we submit the code for the Collab section? Should we copy it into our latex writeup, or just attach the PDF at the end (and match pages appropriately?)?",
+            "answer": "Whatever is most convenient for you! Make sure your final results are integrated into your writeup directly though\n\n",
+            "before_category": "Problem Sets",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Hi, just a quick question. Could our project be just on software sides? Because for ROAR project, it's hard to operate on a real vehicle especially for a short time. ",
+            "answer": "Projects that are just software-based will be approved on a case-by-case basis. Most ROAR projects will most likely be approved anyways, but make sure you get your proposal in ASAP in case there are some improvements to be made before the final deliverable!",
+            "before_category": "General",
+            "after_category": "Logistics"
+        },
+        {
+            "question": "Is discussion attendance still being taken this week (as per Week 11.5 Annoucements)/ are we required to go?\n\n",
+            "answer": "No, we had a change of discussion topic. but you're encouraged to go! It's Tarun's last week of discussion ever:')\n\n",
+            "before_category": "General",
+            "after_category": "Logistics"
+        }
+    ]
+}

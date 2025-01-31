@@ -118,7 +118,7 @@ def json_kb_comments_filter(data, debug_lst=None):
                 dated_question = True
         if "publish" in lowered and " be" in lowered:
             dated_question = True
-        is_question = any([elem in lowered for elem in [" can ", "could", "who", "what", "when", "where", "why", "?"]])
+        is_question = any([elem in lowered for elem in [" can ", "could", "who", "what", "when", "where", "why", "how", "?"]])
         popular_comment = comment["votes"] > 0 or any([elem["user"]["role"] == "student" for elem in comment["comments"]])
         short_query = len(lowered.split(" ")) < 15
 
